@@ -1,0 +1,8 @@
+{
+  "name": "interactors-the-good-the-bad-and-the-ugly",
+  "version": "0.0.0",
+  "dependencies": {
+    "reveal.js": "~3.1.0",
+    "highlightjs": "~8.5.0"
+  }
+}

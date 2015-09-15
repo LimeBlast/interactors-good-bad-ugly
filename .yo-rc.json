@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Interactors - The Good, The Bad, and The Ugly!",
+    "packageVersion": "0.0.0",
+    "revealTheme": "league",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "limeblast",
+    "githubRepository": "interactors-good-bad-ugly"
+  }
+}
