@@ -1,1 +1,7 @@
-["index.md"]
+[
+    "index.md",
+    [
+        "what-is-an-interactor.md",
+        "whats-in-a-name.md"
+    ]
+]
