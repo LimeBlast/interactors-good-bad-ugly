@@ -1,7 +1,7 @@
 ##  What&#39;s in a name?
 
 - `CancelAccount`, not `DestroyUser`
-- `PublishArticle`, not `NewPost`
+- `PublishArticle`, not `CreatePost`
 
 note:
     Interactors are named after business logic, not implementation.
