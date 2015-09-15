@@ -6,9 +6,16 @@
         "interactor-gems.md"
     ],
     [
-        "active-interaction.md"
+        "activeinteraction.md",
+        "be-all-and-end-all.md",
+        "inputs.md",
+        "validation.md",
+        "logic.md",
+        "errors.md",
+        "running-the-interaction.md"
     ],
     [
         "interactor.md"
-    ]
+    ],
+    "conclusion.md"
 ]
