@@ -9,10 +9,12 @@
         "activeinteraction.md",
         "be-all-and-end-all.md",
         "inputs.md",
+        "inputs-cont.md",
         "validation.md",
         "logic.md",
         "errors.md",
-        "running-the-interaction.md"
+        "running-the-interaction.md",
+        "running-the-interaction!.md"
     ],
     [
         "interactor.md"
