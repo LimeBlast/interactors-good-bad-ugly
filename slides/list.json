@@ -20,7 +20,12 @@
         "why-i-dont-like-it.md"
     ],
     [
-        "interactor.md"
+        "interactor.md",
+        "context.md",
+        "failing-the-context.md",
+        "failing-the-context-cont.md",
+        "they-do-one-thing.md",
+        "organizers.md"
     ],
     "conclusion.md"
 ]
