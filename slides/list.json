@@ -2,6 +2,7 @@
     "index.md",
     [
         "what-is-an-interactor.md",
-        "whats-in-a-name.md"
+        "whats-in-a-name.md",
+        "interactor-gems.md"
     ]
 ]
