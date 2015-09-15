@@ -1,4 +1,4 @@
-##  Why I don't like it
+##  Why I don't like ActiveInteraction
 
 - Painful to test
 - Ask, don't tell

@@ -10,5 +10,5 @@
     # => "Hello, Daniel!"
 
 note:
-    The other does away with the outcome object, and either raises an exception on failure, or simply returns the value
+    and .run! does away with the outcome object, and either raises an exception on failure, or simply returns the value
     on success.

@@ -7,4 +7,4 @@
     <% end %>
 
 note:
-    Allowing for the markup you're already used to.
+    Allowing for the form markup you're already used to.

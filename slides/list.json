@@ -17,7 +17,7 @@
         "running-the-interaction!.md",
         "forms.md",
         "form-for.md",
-        "why-i-dont-like-it.md"
+        "why-i-dont-like-activeinteraction.md"
     ],
     [
         "interactor.md",
@@ -25,7 +25,9 @@
         "failing-the-context.md",
         "failing-the-context-cont.md",
         "they-do-one-thing.md",
-        "organizers.md"
+        "organizers.md",
+        "rollback.md",
+        "why-i-dont-like-interactor.md"
     ],
     "conclusion.md"
 ]
